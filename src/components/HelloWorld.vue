@@ -30,7 +30,7 @@ export default {
   name: 'HelloWorld',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App',
+      msg: 'Welcome to Your Vue.js App [Todo List]',
       todos: [
         {text : 'vue-router', done: false, editing: false},
         {text : 'vuex', done: false, editing: false},
